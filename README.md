@@ -11,7 +11,6 @@ and hardware resources.
 | STM32F411 | Synthesis engine, I2S audio, 5-pin DIN MIDI |
 | ESP32 #1  | Web UI, WiFi access point                   |
 | ESP32 #2  | BLE MIDI keyboard interface                 |
-|-----------|---------------------------------------------|
 
 ## Features
 - 8-voice polyphony
