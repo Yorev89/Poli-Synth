@@ -1,4 +1,4 @@
-# Poli-Synth — DIY Polyphonic Synthesizer
+# Poly-Synth — DIY Polyphonic Synthesizer
 
 A homebrew polyphonic synthesizer built from scratch, based on a 
 three-MCU architecture. This repository contains all firmware files 
